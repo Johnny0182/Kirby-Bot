@@ -1,0 +1,7 @@
+discord.py
+apscheduler
+pytz
+requests
+aiohttp
+asyncio
+openai>=1.0.0
